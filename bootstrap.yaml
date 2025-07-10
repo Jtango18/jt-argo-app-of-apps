@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/Jtango18/jt-argo-test.git
-    targetRevision: main
+    targetRevision: app-of-apps
     path: './'
   destination:
     server: https://kubernetes.default.svc
